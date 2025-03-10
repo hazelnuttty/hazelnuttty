@@ -22,12 +22,7 @@
 • 🔍 PROGRAMMING Enthusiast
 
 ## 📺 Favorite Anime
-
-![Attack On Titan](https://raw.githubusercontent.com/hazelnuttty/foto/main/471afc6100aeb27abdc1386bab0d2c61.jpg)
-
-• Naruto
-
-• Yosuga no sora
+![Yosuga no Sora](https://raw.githubusercontent.com/hazelnuttty/asset/main/Yosuga%20no%20sora.jpg)
 
 ## 📈 GitHub Stats
 ![hazelnuttty GitHub stats](https://github-readme-stats.vercel.app/api?username=hazelnuttty&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazelnuttty&layout=donut)
