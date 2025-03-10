@@ -22,7 +22,7 @@
 • 🔍 PROGRAMMING Enthusiast
 
 ## 📺 Favorite Anime
-![Yosuga no Sora](https://raw.githubusercontent.com/hazelnuttty/asset/main/Yosuga%20no%20sora.jpg) ![Yosuga no Sora](https://raw.githubusercontent.com/hazelnuttty/asset/main/Attack%20on%20titan.jpg)
+![Yosuga no Sora](https://raw.githubusercontent.com/hazelnuttty/asset/main/Yosuga%20no%20sora.jpg) ![Attack on titan](https://raw.githubusercontent.com/hazelnuttty/asset/main/Attack%20on%20titan.jpg) ![Naruto shipuden](https://raw.githubusercontent.com/hazelnuttty/asset/main/Naruto%20shipuden.jpg
 
 ## 📈 GitHub Stats
 ![hazelnuttty GitHub stats](https://github-readme-stats.vercel.app/api?username=hazelnuttty&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazelnuttty&layout=donut)
