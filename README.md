@@ -30,7 +30,7 @@
 • Yosuga no sora
 
 ## 📈 GitHub Stats
-![hazelnuttty GitHub stats](https://github-readme-stats.vercel.app/api?username=hazelnuttty)]
+![hazelnuttty GitHub stats](https://github-readme-stats.vercel.app/api?username=hazelnuttty&show_icons=true)
 ---
 
 🚀 Always hacking, always learning.
