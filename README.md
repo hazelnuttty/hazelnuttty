@@ -30,11 +30,10 @@
 • Yosuga no sora
 
 ## 📈 GitHub Stats
+## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAZELNUTTTY&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAZELNUTTTY&layout=compact&theme=tokyonight)
-
-
 ---
 
 🚀 Always hacking, always learning.
