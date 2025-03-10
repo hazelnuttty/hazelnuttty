@@ -23,7 +23,7 @@
 
 ## 📺 Favorite Anime
 
-• Attack on Titan
+![Attack On Titan](https://raw.githubusercontent.com/hazelnuttty/foto/main/471afc6100aeb27abdc1386bab0d2c61.jpg)
 
 • Naruto
 
