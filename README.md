@@ -3,15 +3,10 @@
 ## 🚀 About Me
 
 👀 I'm a cybersecurity & automation enthusiast
-
 🌱 Currently learning OSINT, scripting, and automation
-
 💞️ Looking to collaborate on cool projects, especially in cybersecurity and automation
-
 📫 Reach me at +6285183131924 or @stc_ryzzz
-
 😄 Pronouns: he/him
-
 • ⚡ Fun fact: I make bots do my work while I chill 😎
 ## 🔧 Skills & Tool
 
