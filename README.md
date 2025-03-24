@@ -12,7 +12,7 @@
 
 😄 Pronouns: he/him  
 
-🌍 Location: Indonesia, Jawa Barat, Depok  
+🌍 Location: Indonesia, Depok, Jawa barat
 
 ⚡ Fun fact: I make bots do my work while I chill 😎  
 
