@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hazelnuttty/asset/main/donut.png" width="150" height="150">
+</p>  
+
 # 👋 Hey, I'm Hazelnut (aka Hazel)  
 
 ## 🚀 About Me  
@@ -15,6 +19,7 @@
 ### 💻 Programming  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
 ### 🛠️ Tools  
