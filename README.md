@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hazelnuttty/asset/main/192c.png" width="830" height="830" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/hazelnuttty/asset/main/192c.png" width="300" height="300" style="border-radius: 50%;">
 </p>  
 
 # 👋 Hazelnut (Hazel)  
