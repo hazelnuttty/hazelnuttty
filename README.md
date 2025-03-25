@@ -39,11 +39,8 @@ Cybersecurity and automation enthusiast with a passion for OSINT, scripting, and
   <a href="https://open.spotify.com/track/SDnpEqK7EBQ">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
-</p>  
-
-<p align="center">
   <a href="https://www.youtube.com/watch?v=SDnpEqK7EBQ">
-    <img src="https://img.youtube.com/vi/SDnpEqK7EBQ/0.jpg" width="50%">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
 
