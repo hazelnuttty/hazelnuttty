@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/hazelnuttty/asset/main/192c.png" width="300" height="300" style="border-radius: 50%;">
 </p>  
 
-# 👋 Hi, I'm Hazelnut > aka Hazel  
+# 👋 Hi, I'm Hazelnut > ”aka Hazel”  
 
 ## 🚀 About Me  
 Cybersecurity and automation enthusiast with a passion for OSINT, scripting, and ethical hacking. Experienced in building automation tools, conducting security research, and exploring digital forensics. Constantly learning, adapting, and innovating in the ever-evolving world of cybersecurity.  
