@@ -8,7 +8,8 @@
 
 ## 📫 Connect with Me  
 📩 WhatSapp: [Hazelnuttt](https://wa.me/+6285183131924)  
-📍 Location: Depok, Indonesia  
+📩 Tik Tok: [@stc_ryzzz](https:/tiktok.com/@stc_ryzzz)
+📍 Location: Depok, Jawa Barat, Indonesia  
 
 ## 🔧 Skills & Tools  
 ### 💻 Programming  
