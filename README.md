@@ -5,15 +5,21 @@
 # 👋 Hi, I'm Hazelnut [aka Hazel]
 
 ## 🚀 About Me  
-Cybersecurity and automation enthusiast with a passion for OSINT, scripting, and ethical hacking. Experienced in building automation tools, conducting security research, and exploring digital forensics. Constantly learning, adapting, and innovating in the ever-evolving world of cybersecurity.  
+Cybersecurity and automation enthusiast with a deep passion for OSINT, scripting, and ethical hacking. Experienced in building automation tools, conducting security research, and exploring digital forensics. Constantly learning, adapting, and innovating in the ever-evolving world of cybersecurity.  
 
 🔹 Specializing in cybersecurity, OSINT, and scripting  
-🔹 Focused on automation and penetration testing  
-🔹 Enthusiastic about ethical hacking and digital forensics  
-🔹 Passionate about problem-solving through code  
-🔹 Advocate for privacy, security, and digital intelligence  
+🔹 Focused on automation, penetration testing, and threat intelligence  
+🔹 Experienced in network security, vulnerability assessment, and exploit development  
+🔹 Skilled in Python, JavaScript, and Bash for cybersecurity and automation  
+🔹 Enthusiastic about ethical hacking, digital forensics, and reverse engineering  
+🔹 Passionate about problem-solving through code and developing efficient security solutions  
+🔹 Advocate for privacy, security, and digital intelligence in an increasingly connected world  
+🔹 Dedicated to continuous learning and contributing to the cybersecurity community  
+
+I believe that cybersecurity is not just about protecting systems—it’s about understanding how they work, how they can be exploited, and how to secure them effectively. My goal is to bridge the gap between offensive and defensive security, leveraging automation to enhance efficiency and accuracy in threat detection and mitigation.  
 
 > “Efficiency through automation – let the code do the work.”  
+> “Security isn’t a product, it’s a mindset.”
 
 ---
 
@@ -28,8 +34,7 @@ Cybersecurity and automation enthusiast with a passion for OSINT, scripting, and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠️ Tools & Platforms  
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android-terminal&logoColor=white)  ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android-terminal&logoColor=white)  ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
