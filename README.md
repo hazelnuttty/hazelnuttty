@@ -18,11 +18,7 @@
 - Termux | Replit | Linux | VS Code  
 
 ## 📺 Favorite Anime  
-![Yosuga no Sora](https://raw.githubusercontent.com/hazelnuttty/asset/main/Yosuga%20no%20sora.jpg)  
-![Attack on Titan](https://raw.githubusercontent.com/hazelnuttty/asset/main/Attack%20on%20titan.jpg)  
-![Naruto Shippuden](https://raw.githubusercontent.com/hazelnuttty/asset/main/Naruto%20shipuden.jpg)  
-![Blue Lock](https://raw.githubusercontent.com/hazelnuttty/asset/main/Blue%20lock.jpg)  
-
+![Yosuga no Sora](https://raw.githubusercontent.com/hazelnuttty/asset/main/Yosuga%20no%20sora.jpg)  ![Attack on Titan](https://raw.githubusercontent.com/hazelnuttty/asset/main/Attack%20on%20titan.jpg)  ![Naruto Shippuden](https://raw.githubusercontent.com/hazelnuttty/asset/main/Naruto%20shipuden.jpg)  ![Blue Lock](https://raw.githubusercontent.com/hazelnuttty/asset/main/Blue%20lock.jpg)  
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hazelnuttty&show_icons=true&theme=tokyonight" width="48%">
