@@ -34,7 +34,6 @@ Cybersecurity and automation enthusiast with a passion for OSINT, scripting, and
 ---
 
 ## 🎧 My Playlist  
-### 🎶 Favorite Song  
 <p align="left">
   <a href="https://open.spotify.com/track/SDnpEqK7EBQ">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
