@@ -2,24 +2,34 @@
   <img src="https://raw.githubusercontent.com/hazelnuttty/asset/main/192c.png" width="300" height="300" style="border-radius: 50%;">
 </p>  
 
-# 👋 Hi, I'm Hazelnut [aka Hazel]
+# 👋 Hi, I'm Hazelnut (aka Hazel)
 
 ## 🚀 About Me  
-Cybersecurity and automation enthusiast with a deep passion for OSINT, scripting, and ethical hacking. Experienced in building automation tools, conducting security research, and exploring digital forensics. Constantly learning, adapting, and innovating in the ever-evolving world of cybersecurity.  
+I'm a **Fullstack Developer** and **Cybersecurity Enthusiast** with a passion for OSINT, scripting, and ethical hacking. I specialize in building automation tools, conducting security research, and exploring digital forensics. I love turning complex problems into clean, scalable solutions — whether through code or security strategy.
 
-🔹 Specializing in cybersecurity, OSINT, and scripting  
-🔹 Focused on automation, penetration testing, and threat intelligence  
-🔹 Experienced in network security, vulnerability assessment, and exploit development  
-🔹 Skilled in Python, JavaScript, and Bash for cybersecurity and automation  
-🔹 Enthusiastic about ethical hacking, digital forensics, and reverse engineering  
-🔹 Passionate about problem-solving through code and developing efficient security solutions  
-🔹 Advocate for privacy, security, and digital intelligence in an increasingly connected world  
-🔹 Dedicated to continuous learning and contributing to the cybersecurity community  
+---
 
-I believe that cybersecurity is not just about protecting systems—it’s about understanding how they work, how they can be exploited, and how to secure them effectively. My goal is to bridge the gap between offensive and defensive security, leveraging automation to enhance efficiency and accuracy in threat detection and mitigation.  
+### 🛠️ Tech Stack & Skills  
+> 🌐 **Fullstack Dev**: Express.js, React.js, Flask, Tailwind, MongoDB, MySQL  
+> 🛡️ **Cybersecurity**: Penetration Testing, OSINT, Vulnerability Assessment, Exploit Dev  
+> ⚙️ **Automation**: Web scrapers, bot development, API integration, task automation  
+> 🧠 **Other**: Digital Forensics, Reverse Engineering, Shell scripting
 
+---
+
+### 🎯 What I Do  
+> 🔐 Secure and automate systems with custom tools  
+> 🔍 Hunt digital footprints with OSINT methods 
+> 🧪 Analyze threats and simulate attacks ethically  
+> 🧩 Build fullstack apps with integrated security in mind  
+> 🚀 Deploy modern web solutions with backend automation
+
+---
+
+### 👁‍🗨 Vision & Philosophy  
 > “Efficiency through automation – let the code do the work.”  
-> “Security isn’t a product, it’s a mindset.”
+> “Security isn’t a product, it’s a mindset.”  
+> “Code smart. Hack ethically. Stay curious.”
 
 ---
 
