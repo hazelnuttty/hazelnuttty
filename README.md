@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/hazelnuttty/asset/main/192c.png" width="300" height="300" style="border-radius: 50%;">
 </p>  
 
-# 👋 Hi, I'm Hazelnut (aka Hazel)
+# 👋 Hi, I'm Hazelnut
 
 ## 🚀 About Me  
 I'm a **Fullstack Developer** and **Cybersecurity Enthusiast** with a passion for OSINT, scripting, and ethical hacking. I specialize in building automation tools, conducting security research, and exploring digital forensics. I love turning complex problems into clean, scalable solutions — whether through code or security strategy.
@@ -10,19 +10,19 @@ I'm a **Fullstack Developer** and **Cybersecurity Enthusiast** with a passion fo
 ---
 
 ### 🛠️ Tech Stack & Skills  
-> 🌐 **Fullstack Dev**: Express.js, React.js, Flask, Tailwind, MongoDB, MySQL  
-> 🛡️ **Cybersecurity**: Penetration Testing, OSINT, Vulnerability Assessment, Exploit Dev  
-> ⚙️ **Automation**: Web scrapers, bot development, API integration, task automation  
-> 🧠 **Other**: Digital Forensics, Reverse Engineering, Shell scripting
+🌐 **Fullstack Dev**: Express.js, React.js, Flask, Tailwind, MongoDB, MySQL  
+🛡️ **Cybersecurity**: Penetration Testing, OSINT, Vulnerability Assessment, Exploit Dev  
+⚙️ **Automation**: Web scrapers, bot development, API integration, task automation  
+🧠 **Other**: Digital Forensics, Reverse Engineering, Shell scripting
 
 ---
 
 ### 🎯 What I Do  
-> 🔐 Secure and automate systems with custom tools  
-> 🔍 Hunt digital footprints with OSINT methods 
-> 🧪 Analyze threats and simulate attacks ethically  
-> 🧩 Build fullstack apps with integrated security in mind  
-> 🚀 Deploy modern web solutions with backend automation
+🔐 Secure and automate systems with custom tools  
+🔍 Hunt digital footprints with OSINT methods 
+🧪 Analyze threats and simulate attacks ethically  
+🧩 Build fullstack apps with integrated security in mind  
+🚀 Deploy modern web solutions with backend automation
 
 ---
 
