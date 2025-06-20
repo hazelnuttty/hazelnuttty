@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hazelnuttty/asset/main/192c.png" width="300" height="300" style="border-radius: 50%;">
-</p>  
+  <img src="https://raw.githubusercontent.com/hazelnuttty/asset/main/michie.png" width="300" height="300">
+</p>
 
 # 👋 Hi, I'm Hazelnut
 
