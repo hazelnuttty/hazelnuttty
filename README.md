@@ -5,24 +5,33 @@
 # 👋 Hi, I'm Hazelnut
 
 ## 🚀 About Me  
-I'm a **Fullstack Developer** and **Cybersecurity Enthusiast** with a passion for OSINT, scripting, and ethical hacking. I specialize in building automation tools, conducting security research, and exploring digital forensics. I love turning complex problems into clean, scalable solutions — whether through code or security strategy.
+I'm a **Fullstack Developer**, **Cybersecurity Enthusiast**, and a **Wota** with a passion for OSINT, scripting, and ethical hacking. I specialize in building automation tools, conducting security research, and exploring digital forensics. I love turning complex problems into clean, scalable solutions — whether through code or security strategy.
 
 ---
 
 ### 🛠️ Tech Stack & Skills  
-🌐 **Fullstack Dev**: Express.js, React.js, Flask, Tailwind, MongoDB, MySQL  
-🛡️ **Cybersecurity**: Penetration Testing, OSINT, Vulnerability Assessment, Exploit Dev  
-⚙️ **Automation**: Web scrapers, bot development, API integration, task automation  
-🧠 **Other**: Digital Forensics, Reverse Engineering, Shell scripting
+- 🌐 **Fullstack Dev**: Express.js, React.js, Flask, Tailwind, MongoDB, MySQL  
+- 🛡️ **Cybersecurity**: Penetration Testing, OSINT, Vulnerability Assessment, Exploit Dev  
+- ⚙️ **Automation**: Web scrapers, bot development, API integration, task automation  
+- 🧠 **Other**: Digital Forensics, Reverse Engineering, Shell scripting
 
 ---
 
 ### 🎯 What I Do  
-🔐 Secure and automate systems with custom tools  
-🔍 Hunt digital footprints with OSINT methods 
-🧪 Analyze threats and simulate attacks ethically  
-🧩 Build fullstack apps with integrated security in mind  
-🚀 Deploy modern web solutions with backend automation
+- 🔐 Secure and automate systems with custom tools  
+- 🔍 Hunt digital footprints with OSINT methods  
+- 🧪 Analyze threats and simulate attacks ethically  
+- 🧩 Build fullstack apps with integrated security in mind  
+- 🚀 Deploy modern web solutions with backend automation  
+
+---
+
+### 📡 Public APIs  
+🚀 I provide **free APIs** you can use:  
+[https://zelapioffciall.vercel.app](https://zelapioffciall.vercel.app)
+
+💬 Have feedback or want to leave a comment?  
+[https://smrtcloud.vercel.app](https://smrtcloud.vercel.app)
 
 ---
 
@@ -30,6 +39,24 @@ I'm a **Fullstack Developer** and **Cybersecurity Enthusiast** with a passion fo
 > “Efficiency through automation – let the code do the work.”  
 > “Security isn’t a product, it’s a mindset.”  
 > “Code smart. Hack ethically. Stay curious.”
+
+---
+
+### 📩 Hire Me
+
+I’m a **Fullstack Developer** and **Cybersecurity Enthusiast** passionate about building **secure** and **scalable** digital solutions.
+
+#### 🔧 I specialize in:
+- **Full-cycle app development** (frontend & backend)  
+- **Automation bots** and **OSINT tools**  
+- **Secure API integration** and **system architecture**  
+- **Web vulnerability testing** and **app hardening**  
+- **Infrastructure monitoring** and **endpoint protection**
+
+🛡️ **Security isn't an option, it’s my mindset.**
+
+📬 **Reach out** via the links above or your preferred platform.  
+**Let’s build something that lasts and protects.**
 
 ---
 
