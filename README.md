@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Hazelnut
 
 ## 🚀 About Me  
-I’m a **Fullstack Developer**, **Cybersecurity Specialist**, and a proud **Wota** which means a dedicated fan of Japanese idols like JKT48. I have 4+ years of experience in web development and 2 years in cybersecurity. I focus on building secure and scalable systems by combining backend engineering, frontend development, and cybersecurity principles.
+I’m a **Fullstack Developer**, **Cybersecurity Specialist**, and a **Wota**. I have 4+ years of experience in web development and 2 years in cybersecurity. I focus on building secure and scalable systems by combining backend engineering, frontend development, and cybersecurity principles.
 
 I work across the full tech stack including API development, database management, and UI design. I also secure applications through penetration testing, vulnerability assessment, and OSINT methods. In addition, I create custom automation tools to streamline workflows and improve productivity.
 
