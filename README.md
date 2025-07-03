@@ -103,12 +103,5 @@ I help teams and individuals build **secure, scalable systems** with full contro
 </p>  
 
 ---
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazelnuttty&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazelnuttty&layout=donut&theme=tokyonight" width="48%">
-</p>  
-
----
 
 🚀 automation, security, and code — that’s hazel.
