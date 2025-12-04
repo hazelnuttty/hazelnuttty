@@ -1,5 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hazelnuttty/hazelnuttty/main/assets/Proyek%20Baru%205%20%5BEB30F3F%5D.png" style="max-width: 100%; height: auto;">
-</p>
+[![Hazelnut's GitHub Banner](https://raw.githubusercontent.com/hazelnuttty/hazelnuttty/main/assets/Proyek%20Baru%205%20%5BEB30F3F%5D.png)](https://zelapioffciall.koyeb.app)
 
 # 👋 Hi, I'm Hazelnut
