@@ -1,4 +1,6 @@
 [![Hazelnuts](./assets/GitHubHeader.png)](https://zelapioffciall.koyeb.app)
+![2025](https://img.shields.io/badge/2025-%20-blue?style=for-the-badge&logo=github)
+![Year](https://img.shields.io/badge/Year-2025-green?style=flat-square)
 
 **👋 Hi There**
 
