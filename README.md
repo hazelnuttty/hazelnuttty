@@ -29,7 +29,7 @@ I am **Hazel**, a senior backend developer, I have more than 4 years of experien
 
 ---
 
-*** 🚀 Featured Projects ***
+***— Featured Projects***
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
