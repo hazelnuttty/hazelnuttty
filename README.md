@@ -1,8 +1,6 @@
 [![Hazelnuts](./assets/GitHubHeader.png)](https://zelapioffciall.koyeb.app)
-![2](https://img.shields.io/badge/2-000000?style=for-the-badge&logoColor=white&color=FF6B6B)
-![0](https://img.shields.io/badge/0-000000?style=for-the-badge&logoColor=white&color=4ECDC4)
-![2](https://img.shields.io/badge/2-000000?style=for-the-badge&logoColor=white&color=FFE66D)
-![5](https://img.shields.io/badge/5-000000?style=for-the-badge&logoColor=white&color=1A535C)
+![2](https://img.shields.io/badge/2-000000?style=for-the-badge&logoColor=white&color=FF6B6B)![0](https://img.shields.io/badge/0-000000?style=for-the-badge&logoColor=white&color=4ECDC4)![2](https://img.shields.io/badge/2-000000?style=for-the-badge&logoColor=white&color=FFE66D)![5](https://img.shields.io/badge/5-000000?style=for-the-badge&logoColor=white&color=1A535C)
+
 **👋 Hi There**
 
 I am **Hazel**, a senior backend developer, I have more than 4 years of experience, I have mastered many languages, especially Node JS and Python, I have a mission to create a perfect system.
