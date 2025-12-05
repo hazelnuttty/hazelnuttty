@@ -1,9 +1,9 @@
 [![Hazelnuts](./assets/GitHubHeader.png)](https://zelapioffciall.koyeb.app)
 <p align="center">
-  <img src="https://img.shields.io/badge/2-FFFFFF?style=for-the-badge&logoColor=white&color=000000" alt="2">
-  <img src="https://img.shields.io/badge/0-FFFFFF?style=for-the-badge&logoColor=white&color=000000" alt="0">
-  <img src="https://img.shields.io/badge/2-FFFFFF?style=for-the-badge&logoColor=white&color=000000" alt="2">
-  <img src="https://img.shields.io/badge/5-FFFFFF?style=for-the-badge&logoColor=white&color=000000" alt="5">
+  <img src="https://img.shields.io/badge/2-000000?style=for-the-badge&logoColor=white&color=FF6B6B" alt="2">
+  <img src="https://img.shields.io/badge/0-000000?style=for-the-badge&logoColor=white&color=4ECDC4" alt="0">
+  <img src="https://img.shields.io/badge/2-000000?style=for-the-badge&logoColor=white&color=FFE66D" alt="2">
+  <img src="https://img.shields.io/badge/5-000000?style=for-the-badge&logoColor=white&color=1A535C" alt="5">
 </p>
 
 **👋 Hi There**
