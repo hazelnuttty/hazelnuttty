@@ -17,7 +17,7 @@ I am **Hazel**, a senior backend developer, I have more than 4 years of experien
 
 — Backend
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=go&logoColor=white)[![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat&logo=socket.io&logoColor=white)](#)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=go&logoColor=white)[![REST APIs](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=node.js&logoColor=white)](#)
 
 ---
 
